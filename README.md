@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satvik-s
-- 🌱 I’m currently learning Open Source better
+- 🌱 I’m currently learning to Open Source better
 - 💞️ I’m looking to collaborate on libraries
 
 <!---
